@@ -2,10 +2,10 @@
 tic tac toe game made using python gui library - tkinter.
 
 # prerequsites
-python3 or jypter notebook installed \n
-pillow library installed. (if not there then run :- pip install pillow)
-tkinter library
-time library 
+python3 or jypter notebook installed .
+pillow library installed. (if not there then run :- pip install pillow).
+tkinter library.
+time library .
 
 # how to run
 download all the images and tictactoe.py into same directory and run it. make sure you are having all the prerequsites.
