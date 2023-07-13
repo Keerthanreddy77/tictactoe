@@ -2,7 +2,7 @@
 tic tac toe game made using python gui library - tkinter.
 
 # prerequsites
-python3 or jypter notebook installed
+python3 or jypter notebook installed \n
 pillow library installed. (if not there then run :- pip install pillow)
 tkinter library
 time library 
